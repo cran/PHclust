@@ -1,0 +1,17 @@
+d5cad535140bc70be66b0fe1a832e8d6 *DESCRIPTION
+ae412495189eafbd6b7c0b55409562d7 *NAMESPACE
+70b16694ac875dc8619df8fb3adabfd8 *R/Hybrid.R
+c25fd232cf1e7583ec581dd2b1d45a37 *R/PHcluster.R
+fc70d7038e3e308149cbf87372a81c55 *R/hurdle.R
+b27c5ce979d98427e6da3bbe100b1588 *R/plot_abundance.R
+a7a828a9f9e085582f4b31926e9e2731 *R/sample_data.R
+e8f6869015fa48d68225455d803ff446 *build/vignette.rds
+0330bcd5cb2a1477fb33e22e2f4b223b *data/sample_data.rda
+bd042fad9ff5d4757d783b0a26bedcb4 *inst/doc/Intro.R
+e443ec93c1399f68dbdb8bd4cb70debd *inst/doc/Intro.Rmd
+d78ac120cd7203d0ff573c62c7a1bf9c *inst/doc/Intro.html
+99eed1931212507a738c973320d288f0 *man/Hybrid.Rd
+be9c675987c5ccb45aefeb0dc590583c *man/PHcluster.Rd
+b9818d4d4f3a70c9615ebf9deda6b5df *man/plot_abundance.Rd
+3c062e25163b858b8ff49e81f184b77b *man/sample_data.Rd
+e443ec93c1399f68dbdb8bd4cb70debd *vignettes/Intro.Rmd
